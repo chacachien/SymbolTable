@@ -1,7 +1,7 @@
 
  # DSA C++ Implementation Repository
 
-This repository contains C++ implementations of various data structures and algorithms (DSA) commonly used in computer science. 
+This repository contains C++ implementations of various data structures and algorithms (DSA) commonly used in computer science at HCMUT. 
 
 ## Contents
 

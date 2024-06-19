@@ -7,11 +7,11 @@ This repository contains C++ implementations of various data structures and algo
 
 The repository is structured as follows:
 
-- **ass1_LinkedList**: Contains implementations related to linked lists.
+- **ass1_LinkedList**: Contains implementations related to **linked lists**.
 
-- **ass2_splayTree**: Contains implementations related to splay trees.
+- **ass2_splayTree**: Contains implementations related to **splay trees**.
 
-- **ass3_hashTable**: Contains implementations related to hash tables.
+- **ass3_hashTable**: Contains implementations related to **hash tables**.
 
 
 
